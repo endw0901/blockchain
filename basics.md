@@ -27,3 +27,9 @@ SegWit
 署名領域が多いので、これを削減して多くのトランザクションを渡せる
 最大1MB / blockはかわらないが、今までの倍運べる
 https://bitflyer.com/ja-jp/s/glossary/segwit
+
+## Bitcoin address とpublic key
+https://medium.com/coinmonks/what-is-a-bitcoin-address-6c822c857004
+extra securityの仕組み
+
+## hierarchically deterministic wallet
