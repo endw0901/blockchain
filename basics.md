@@ -60,3 +60,13 @@ https://medium.com/@Matzago/why-the-web-3-0-matters-and-you-should-know-about-it
 web2 chrome => web3 Brave<br>
 web2 google drive => web3 IPFS
 <br>
+
+
+## 開発フレームワーク
+
+<br>tuffle ganache
+https://trufflesuite.com/ganache/
+<br>
+ウォレット<br>
+metamask vs MyEthWallet <br>
+https://www.bridge-salon.jp/toushi/crypto-wallet/#back
