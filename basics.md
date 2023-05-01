@@ -70,3 +70,10 @@ https://trufflesuite.com/ganache/
 ウォレット<br>
 metamask vs MyEthWallet <br>
 https://www.bridge-salon.jp/toushi/crypto-wallet/#back
+
+remix solidity <br>
+https://remix-project.org/
+
+<br>
+Ganacheでローカルブロックチェーンを作成しRemixからデプロイする <br>
+https://qiita.com/harker/items/a60a8379e948c1d735cd
