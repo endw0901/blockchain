@@ -1,8 +1,8 @@
 - Ethereum and Solidity: The Complete Developer's Guide
-https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/
+- https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/
 
 
-https://etherconverter.online
+- https://etherconverter.online
 
 
 - require statementで、transactionについてくるethが足りてるかチェック & エラーログ
@@ -31,7 +31,7 @@ https://etherconverter.online
 
 - mochaとganache-cliを使ったローカルテストと、truffle-hdwallet-providerとinfura.ioを使ったデプロイ。
 
-https://qiita.com/s0sasaki/items/1d558f255baa9805d9a9
+- https://qiita.com/s0sasaki/items/1d558f255baa9805d9a9
 
 ```
 npm init
@@ -54,11 +54,9 @@ npm install next-routes --legacy-peer-deps
 
 ## blockchain on AWS
 
-https://d1.awsstatic.com/events/jp/2018/summit/tokyo/aws/26.pdf
+- https://d1.awsstatic.com/events/jp/2018/summit/tokyo/aws/26.pdf
 
-
-
-https://dev.classmethod.jp/tags/amazon-managed-blockchain/
+- https://dev.classmethod.jp/tags/amazon-managed-blockchain/
 
 ### wei
 - PGM上では、0.1 ether で自動的にweiにconvertしてくれる
@@ -72,18 +70,16 @@ https://dev.classmethod.jp/tags/amazon-managed-blockchain/
 
 - sendでethをcontractに引数で送れる
 
-https://qiita.com/ryu-yama/items/4c37d5ff0fbc5364e569
+- https://qiita.com/ryu-yama/items/4c37d5ff0fbc5364e569
 
 
 ### javascript
 [campaignAddress] 　配列の最初の要素をとる
 
-javascript snipets
+- javascript snipets
 
 
 ## 開発の注意点
-factoryはdeployする(fee自分持ち)、campaignはdeploy済みのものをaddressで特定して使う
+- factoryはdeployする(fee自分持ち)、campaignはdeploy済みのものをaddressで特定して使う
 
-
-
-gas代自分もちのfactory(campaign製造用)を作ることで、campaignを無数に作られても破綻しないようにする。また、campaignの中身をブラックボックスにして、セキュリティ（コード改ざん防止）になる
+- gas代自分もちのfactory(campaign製造用)を作ることで、campaignを無数に作られても破綻しないようにする。また、campaignの中身をブラックボックスにして、セキュリティ（コード改ざん防止）になる
